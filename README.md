@@ -4,7 +4,7 @@ Una aplicación simple de conversión de monedas escrita en Java utilizando prin
 
 ## Características
 
-- Conversión entre las monedas USD, ARS, BRL, COP, EUR y MXN.
+- Conversión entre las monedas USD, ARS, BRL, COP, BRL.
 - Historial de conversiones con marcas de tiempo para cada conversión.
 - Interfaz de consola amigable para el usuario.
 - Diseño orientado a objetos para escalabilidad y mantenimiento.
@@ -13,4 +13,4 @@ Una aplicación simple de conversión de monedas escrita en Java utilizando prin
 
 - Java
 - ExchangeRate-API
-- IntelliJ IDEA
+- Spring
